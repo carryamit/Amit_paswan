@@ -1,5 +1,6 @@
 # 💫 About Me:
 Hi there 👋
+
 🔭 I’m a full-stack developer.<br>👯 I’m looking to collaborate on web application projects.<br>🤝 I’m looking for help with optimizing performance and scaling apps.<br>🌱 I’m currently learning more about cloud services and DevOps practices.<br>💬 Ask me about JavaScript frameworks or database management.<br>⚡ Fun fact: I once built a complete app in just 24 hours during a hackathon!
 
 
